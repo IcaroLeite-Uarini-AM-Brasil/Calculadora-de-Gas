@@ -1,0 +1,39 @@
+# Core
+Python>=3.8
+
+# GUI
+# Tkinter vem com Python
+
+# Web
+Flask==2.3.3
+Flask-CORS==4.0.0
+Werkzeug==2.3.7
+Jinja2==3.1.2
+
+# Database & Storage
+# JSON nativo do Python
+
+# Testing
+pytest==7.4.2
+pytest-cov==4.1.0
+pytest-mock==3.11.1
+
+# Code Quality
+black==23.9.1
+flake8==6.1.0
+isort==5.12.0
+pylint==2.17.6
+mypy==1.5.1
+
+# Documentation
+Sphinx==7.1.2
+sphinx-rtd-theme==1.3.0
+
+# Development
+ipython==8.15.0
+ipdb==0.13.13
+python-dotenv==1.0.0
+
+# Deployment
+gunicorn==21.2.0
+python-decouple==3.8
